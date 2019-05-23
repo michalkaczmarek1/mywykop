@@ -1,0 +1,6 @@
+<%--stopka--%>
+<footer class="footer">
+    <div class="container">
+        <p class="navbar-text">My wykop - developed by <a href="http://javastart.pl">JavaStart.pl</a></p>
+    </div>
+</footer>
